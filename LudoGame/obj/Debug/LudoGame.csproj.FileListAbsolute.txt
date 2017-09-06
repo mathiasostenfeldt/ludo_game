@@ -1,0 +1,6 @@
+c:\users\mathias o. rasmussen\documents\visual studio 2017\Projects\DTP.OOP\LudoGame\obj\Debug\LudoGame.csprojResolveAssemblyReference.cache
+c:\users\mathias o. rasmussen\documents\visual studio 2017\Projects\DTP.OOP\LudoGame\obj\Debug\LudoGame.exe
+c:\users\mathias o. rasmussen\documents\visual studio 2017\Projects\DTP.OOP\LudoGame\obj\Debug\LudoGame.pdb
+C:\Users\Mathias O. Rasmussen\documents\visual studio 2017\Projects\DTP.OOP\LudoGame\bin\Debug\LudoGame.exe.config
+C:\Users\Mathias O. Rasmussen\documents\visual studio 2017\Projects\DTP.OOP\LudoGame\bin\Debug\LudoGame.exe
+C:\Users\Mathias O. Rasmussen\documents\visual studio 2017\Projects\DTP.OOP\LudoGame\bin\Debug\LudoGame.pdb
